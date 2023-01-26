@@ -7,5 +7,3 @@ sales.head()
 sales.shape
 sales.info()
 sales.describe()
-
-    
