@@ -4,3 +4,6 @@ import matplotlib.pyplot as plt
 % matplotlib inline
 !head chaidasc/sales_data.csv
 sales = pd.read_csv('chaidasc/sales_data.csv',parse_dates=['date']
+sales.head()
+sales.shape
+sales.info()
