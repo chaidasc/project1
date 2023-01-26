@@ -8,3 +8,4 @@ sales.head()
 sales.shape
 sales.info()
 sale.describe()
+
