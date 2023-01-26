@@ -7,5 +7,5 @@ sales = pd.read_csv('sales_data.csv',parse_dates=['date']
 sales.head()
 sales.shape
 sales.info()
-sale.describe()
+sales.describe()
 
