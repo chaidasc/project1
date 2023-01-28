@@ -7,4 +7,5 @@ sales.head()
 sales.shape
 sales.info()
 sales.describe()
+print(sales.head())
 
